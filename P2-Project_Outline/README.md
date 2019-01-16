@@ -1,18 +1,29 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
-## Submission Instructions
-
 ### Overview
-My project is a meal planner that will allow users to create meal plans from multiple recipes and view the resulting grocery list of ingredients. It will allow users to log in and create, edit and delete recipes, ingredients, and meal plans and also view the resulting grocery list from the meal plan.
+My project is a meal planner that will allow users to view (and probably print out) a grocery list from a meal plan.  Users can create, edit, and delete meal plans, recipes, and ingredients.
+
+I decided to make this project mostly for my sister, who is a stay-at-home mom with 1 cute kid and another on the way. Without the help of online tools (because lets face it, your favorite recipes are not all in the same recipe box or book or online website), it requires a lot of time and effort to plan the weekly meals  - including double checking what you have and referecing books and family recipe cards - to then finally arrive to a grocery list
 
 ### Features
-Include Features here
+- Create, edit, delete, and view Recipes:
+- Create, edit, delete, and view Ingredients:
+- View a list of Recipes
+- Search Recipes: By title, with ingredients, without ingredients
+
+- Create, edit, delete, and view Meal Plans:
+- View a Grocery List: Users must select a meal plan to view this. The grocery list adds up all the ingredients from all the recipes in the meal plan.
+- View a list of Meal Plans
+
 ### Technologies
-Include Technologies here
+- Java
+- Spring Boot
+- MySQL
+- Thymeleaf templates
+- Bootstrap
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn about many-to-many data relationships in Spring Boot including queries and sorting.
