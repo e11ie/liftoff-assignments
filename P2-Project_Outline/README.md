@@ -7,7 +7,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a meal planner that will allow users to create meal plans from multiple recipes and view the resulting grocery list of ingredients. It will allow users to log in and create, edit and delete recipes, ingredients, and meal plans and also view the resulting grocery list from the meal plan.
+
 ### Features
 Include Features here
 ### Technologies
